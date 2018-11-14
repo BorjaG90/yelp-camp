@@ -1,0 +1,19 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "Node.js web application project from the Udemy course The Web Developer Bootcamp by Colt Steele ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorjaG90/yelp-camp.git"
+  },
+  "author": "BorjaG90",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BorjaG90/yelp-camp/issues"
+  },
+  "homepage": "https://github.com/BorjaG90/yelp-camp#readme"
+}
