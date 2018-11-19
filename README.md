@@ -1,6 +1,14 @@
 # yelp-camp
 Node.js web application project from the Udemy course The Web Developer Bootcamp by Colt Steele 
 
+## Features
+* Authentication:
+  
+  * User login with username and password
+
+  * Admin sign-up with admin code
+
+
 ## Built With
 ### Backend
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/BorjaG90/media/master/img/logos/javascript.jpeg" width=50 alt="JavaScript"></a>
