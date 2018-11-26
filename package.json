@@ -1,6 +1,6 @@
 {
   "name": "yelp-camp",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "description": "Node.js web application project from the Udemy course The Web Developer Bootcamp by Colt Steele ",
   "main": "app.js",
   "scripts": {
